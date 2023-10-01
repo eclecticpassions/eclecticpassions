@@ -14,6 +14,7 @@
   -  setting up a home-lab with a RPi4B (8GB) running Docker and Portainer
   -  learning basic Python for data science
   -  fine-tuning my personal knowledge management (PKM) system using Obsidian
+  -  learning Git and Hugo for my new static site [Burgeon Lab](https://www.burgeonlab.com)
 
 - 📫 How to reach me:
   - [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@eclecticpassions)
