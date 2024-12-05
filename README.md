@@ -3,18 +3,18 @@
 👩🏻‍⚕️ I'm a junior healthcare professional based in Hong Kong.
 
 - 🔭 Interests:
-  - free open source software (FOSS) and privacy-centric services
-  - digital and film photography / Lightroom
-  - speciality coffee / manual brewing / home barista
-  - homelab / self-hosting
+  - free open source software (FOSS) and raising awareness for privacy-centric services
+  - digital and film photography (favourite genres: street, urban, macro) / post-processing
+  - speciality coffee / manual brewing / a "home barista"
+  - homelab / self-hosting 
   - Android / macOS / Linux
-  - hiking / cycling / formula 1
+  - hiking / cycling / city walks / formula 1
 
 - 🌱 I’m currently:
-  -  setting up a home-lab with a RPi4B (8GB) running Docker and Portainer
-  -  learning basic Python for data science
+  -  setting up a home-lab with a RPi4B (8GB) running Docker via Portainer
+  -  learning basic Python for data analytics
   -  fine-tuning my personal knowledge management (PKM) system using Obsidian
-  -  learning Git and Hugo for my new static site [Burgeon Lab](https://www.burgeonlab.com)
+  -  learning Git and Hugo for my new static blog [Burgeon Lab](https://www.burgeonlab.com)
 
 - 📫 How to reach me:
   - [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@eclecticpassions)
