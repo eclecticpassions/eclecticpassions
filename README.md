@@ -17,8 +17,14 @@
   -  Transitioning my digital reliance towards more privacy-friendly options, moving away from Big Tech and US-based services in general
 
 ## 📫 How to reach me:
-  - [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://fosstodon.org/@eclecticpassions)
-  - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/eclecticpassions)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/110631569439879798?domain=fosstodon.org&style=for-the-badge&logo=mastodon&logoColor=%234A9AA5&labelColor=20202C&color=FB7402&link=https%3A%2F%2Ffosstodon.org%2F%40eclecticpassions)
+
+![Static Badge](https://img.shields.io/badge/follow-me?style=for-the-badge&logo=instagram&label=Instagram&labelColor=%2320202C&color=%23E43F5F&link=https%3A%2F%2Fwww.instagram.com%2Feclecticpassions)
+
+![Static Badge](https://img.shields.io/badge/chat-chat?style=for-the-badge&logo=matrix&label=Matrix&labelColor=%2320202C&color=%230DBF97&link=https%3A%2F%2Fmatrix.to%2F%23%2F%40burgeon%3Atchncs.de)
+
+
+
   
 ## ✍️ My blogs:
   - Tech blog [![Tech blog](https://img.shields.io/badge/Hugo-%FF4088.svg?style=for-the-badge&logo=Hugo&logoColor=white)](https://www.burgeonlab.com)
