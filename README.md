@@ -23,13 +23,22 @@
 
 [![Static Badge](https://img.shields.io/badge/chat-chat?style=for-the-badge&logo=matrix&label=Matrix&labelColor=%2320202C&color=%230DBF97&link=https%3A%2F%2Fmatrix.to%2F%23%2F%40burgeon%3Atchncs.de)](https://matrix.to/#/@burgeon:tchncs.de)
 
+## Support me:
 
+[![Liberapay receiving](https://img.shields.io/liberapay/receives/Naty.S?style=for-the-badge&logo=liberapay)](https://liberapay.com/~1860582/)
 
-  
+[![Static Badge](https://img.shields.io/badge/donate-Ko_fi?style=for-the-badge&logo=kofi&logoColor=%23ffffff&label=Buy%20me%20a%20coffee&labelColor=%23FF6433&color=%23ffffff)](https://ko-fi.com/eclecticpassions)
+
 ## ✍️ My blogs:
-  - Tech blog [![Tech blog](https://img.shields.io/badge/Hugo-%FF4088.svg?style=for-the-badge&logo=Hugo&logoColor=white)](https://www.burgeonlab.com)
-  - General blog [![General blog](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://www.eclecticpassions.net)
-  - Photography blog [![Photography blog](https://img.shields.io/badge/Hugo-%FF4088.svg?style=for-the-badge&logo=Hugo&logoColor=white)](https://www.aperture2iris.com)
+
+[![Static Badge](https://img.shields.io/badge/eclecticpassions.net-FA7602?style=for-the-badge&logo=wordpress&logoColor=%23000000&label=General%20blog&labelColor=%238DCBD2)
+](https://eclecticpassions.net)
+
+[![Static Badge](https://img.shields.io/badge/BurgeonLab.com-E24613?style=for-the-badge&logo=hugo&logoColor=%23000000&label=tech%20blog&labelColor=%23FFB800)
+](https://www.burgeonlab.com)
+
+[![Static Badge](https://img.shields.io/badge/aperture2iris.com-93A1B6?style=for-the-badge&logo=hugo&logoColor=%23000000&label=Photography%20blog&labelColor=%23ff9b6d)
+](https://aperture2iris.com)
 
 ---
 
