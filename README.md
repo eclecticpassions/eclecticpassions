@@ -17,11 +17,11 @@
   -  Transitioning my digital reliance towards more privacy-friendly options, moving away from Big Tech and US-based services in general
 
 ## 📫 How to reach me:
-![Mastodon Follow](https://img.shields.io/mastodon/follow/110631569439879798?domain=fosstodon.org&style=for-the-badge&logo=mastodon&logoColor=%234A9AA5&labelColor=20202C&color=FB7402&link=https%3A%2F%2Ffosstodon.org%2F%40eclecticpassions)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/110631569439879798?domain=fosstodon.org&style=for-the-badge&logo=mastodon&logoColor=%234A9AA5&labelColor=20202C&color=FB7402&link=https%3A%2F%2Ffosstodon.org%2F%40eclecticpassions)](https://fosstodon.org/@eclecticpassions)
 
-![Static Badge](https://img.shields.io/badge/follow-me?style=for-the-badge&logo=instagram&label=Instagram&labelColor=%2320202C&color=%23E43F5F&link=https%3A%2F%2Fwww.instagram.com%2Feclecticpassions)
+[![Static Badge](https://img.shields.io/badge/follow-me?style=for-the-badge&logo=instagram&label=Instagram&labelColor=%2320202C&color=%23E43F5F&link=https%3A%2F%2Fwww.instagram.com%2Feclecticpassions)](https://www.instagram.com/eclecticpassions/)
 
-![Static Badge](https://img.shields.io/badge/chat-chat?style=for-the-badge&logo=matrix&label=Matrix&labelColor=%2320202C&color=%230DBF97&link=https%3A%2F%2Fmatrix.to%2F%23%2F%40burgeon%3Atchncs.de)
+[![Static Badge](https://img.shields.io/badge/chat-chat?style=for-the-badge&logo=matrix&label=Matrix&labelColor=%2320202C&color=%230DBF97&link=https%3A%2F%2Fmatrix.to%2F%23%2F%40burgeon%3Atchncs.de)](https://matrix.to/#/@burgeon:tchncs.de)
 
 
 
