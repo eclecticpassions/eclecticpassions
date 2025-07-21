@@ -43,9 +43,14 @@
 
 [![Static Badge](https://img.shields.io/badge/donate-Ko_fi?style=for-the-badge&logo=kofi&logoColor=%23ffffff&label=Buy%20me%20a%20coffee&labelColor=%23FF6433&color=%23ffffff)](https://ko-fi.com/eclecticpassions)
 
----
 
-Page visits: <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
+## 📊 Stats
+
+[^1] ![](https://komarev.com/ghpvc/?username=eclecticpassions)
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=eclecticpassions)](https://github.com/LordDashMe/github-contribution-stats/)
+
+[^1]: New [page counter](https://github.com/antonkomarev/github-profile-views-counter) added on 2025/07/21 (previous counter=4k).
 
 <!--
 **eclecticpassions/eclecticpassions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started:
