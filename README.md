@@ -4,7 +4,7 @@
 
 ## 🔭 Interests
   - Free open source software (FOSS) and raising awareness for privacy-centric services
-  - Webdev and blogging (experience with static-site generator, [Hugo](https://gohugo.io/), and self-hosted WordPress
+  - Webdev and blogging (experience with static-site generator [Hugo](https://gohugo.io/), and self-hosted WordPress)
   - Digital and film photography (favourite genres: street, urban, macro) / moving to FOSS post-processing options post-Adobe era
   - Speciality coffee / manual brewing / a "home barista" if you will
   - Home lab / self-hosting / Raspberry Pi (running dietpi)
