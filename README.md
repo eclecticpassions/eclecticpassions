@@ -1,22 +1,6 @@
 # Hello there, I'm Naty 👩🏻‍💻👋🏻
 
-👩🏻‍⚕️ I'm a junior healthcare professional by training, but currently exploring other interests. Based in 🇭🇰 Hong Kong, SAR.
-
-## 🔭 Interests
-  - Free open source software (FOSS) and raising awareness for privacy-centric services
-  - Webdev and blogging (experience with static-site generator [Hugo](https://gohugo.io/), and self-hosted WordPress)
-  - Digital and film photography (favourite genres: street, urban, macro) / moving to FOSS post-processing options post-Adobe era
-  - Speciality coffee / manual brewing / a "home barista" if you will
-  - Home lab / self-hosting / Raspberry Pi (running dietpi)
-  - Android + macOS and occasionally Linux Mint on my retired MBA 13" (2012)
-  - Hiking / cycling / city walks / Formula 1
-
-## 🌱 I’m currently
-  -  Getting accustomed to being a 'sustainable blogger' (i.e. keeping up with posts without long periods of absences)
-  -  Setting up a home-lab with a RPi4B (8GB) running Docker via Portainer
-  -  Learning basic Python for data science
-  -  Fine-tuning my personal knowledge management (PKM) system using Obsidian
-  -  Transitioning my digital reliance towards more privacy-friendly options, moving away from Big Tech and US-based services in general
+👩🏻‍⚕️ I'm a junior healthcare professional by training, but currently exploring other interests. A techy with lots of hobbies, based in 🇭🇰 Hong Kong, SAR.
 
 ## ✍️ My blogs
 
@@ -30,6 +14,27 @@
 ](https://aperture2iris.com)
 
 
+## 📊 Stats
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=eclecticpassions)](https://github.com/LordDashMe/github-contribution-stats/)
+
+[^1] ![](https://komarev.com/ghpvc/?username=eclecticpassions)
+
+## ☕ Interests
+  - Free open source software (FOSS) and raising awareness for privacy-centric services
+  - Webdev and blogging (experience with static-site generator Hugo and self-hosted WordPress)
+  - Digital and film photography (favourite genres: street, urban, macro) / moving to FOSS post-processing options post-Adobe era
+  - Speciality coffee / manual brewing / a "home barista" if you will
+  - Home lab / self-hosting / Raspberry Pi (running dietpi)
+  - Android + macOS and occasionally Linux Mint on my retired MBA 13" (2012)
+  - Hiking / cycling / city walks / Formula 1
+
+## 🌱 I’m currently
+  -  Getting accustomed to being a 'sustainable blogger' (i.e. keeping up with posts without long periods of absences)
+  -  Setting up a home-lab with a RPi4B (8GB) running Docker via Portainer
+  -  Learning basic Python for data science
+  -  Fine-tuning my personal knowledge management (PKM) system using Obsidian
+  -  Transitioning my digital reliance towards more privacy-friendly options, moving away from Big Tech and US-based services in general
+
 ## 📫 How to reach me
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/110631569439879798?domain=fosstodon.org&style=for-the-badge&logo=mastodon&logoColor=%234A9AA5&labelColor=20202C&color=FB7402&link=https%3A%2F%2Ffosstodon.org%2F%40eclecticpassions)](https://fosstodon.org/@eclecticpassions)
 
@@ -42,13 +47,6 @@
 [![Liberapay receiving](https://img.shields.io/liberapay/receives/Naty.S?style=for-the-badge&logo=liberapay)](https://liberapay.com/~1860582/)
 
 [![Static Badge](https://img.shields.io/badge/donate-Ko_fi?style=for-the-badge&logo=kofi&logoColor=%23ffffff&label=Buy%20me%20a%20coffee&labelColor=%23FF6433&color=%23ffffff)](https://ko-fi.com/eclecticpassions)
-
-
-## 📊 Stats
-
-[^1] ![](https://komarev.com/ghpvc/?username=eclecticpassions)
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=eclecticpassions)](https://github.com/LordDashMe/github-contribution-stats/)
 
 [^1]: New [page counter](https://github.com/antonkomarev/github-profile-views-counter) added on 2025/07/21 (previous counter=4k).
 
