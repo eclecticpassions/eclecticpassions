@@ -17,9 +17,13 @@
 
 
 ## 📊 Stats
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=eclecticpassions)](https://github.com/LordDashMe/github-contribution-stats/)
 
-[^1] ![](https://komarev.com/ghpvc/?username=eclecticpassions)
+<a href="https://github.com/LordDashMe/github-contribution-stats/">
+  <img height=200 align="center" src="https://github-contribution-stats.vercel.app/api/?username=eclecticpassions" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eclecticpassions&theme=swift&show_icons=true&hide_border=true" />
+</a>
 
 ## ☕ Interests
   - Free open source software (FOSS) and raising awareness for privacy-centric services
@@ -45,10 +49,13 @@
 [![Static Badge](https://img.shields.io/badge/chat-chat?style=for-the-badge&logo=matrix&label=Matrix&labelColor=%2320202C&color=%230DBF97&link=https%3A%2F%2Fmatrix.to%2F%23%2F%40burgeon%3Atchncs.de)](https://matrix.to/#/@burgeon:tchncs.de)
 
 ## 🎁 Support me
-
 [![Liberapay receiving](https://img.shields.io/liberapay/receives/Naty.S?style=for-the-badge&logo=liberapay)](https://liberapay.com/~1860582/)
 
 [![Static Badge](https://img.shields.io/badge/donate-Ko_fi?style=for-the-badge&logo=kofi&logoColor=%23ffffff&label=Buy%20me%20a%20coffee&labelColor=%23FF6433&color=%23ffffff)](https://ko-fi.com/eclecticpassions)
+
+---
+
+[^1] ![](https://komarev.com/ghpvc/?username=eclecticpassions)
 
 [^1]: New [page counter](https://github.com/antonkomarev/github-profile-views-counter) added on 2025/07/21 (previous counter=4k).
 
