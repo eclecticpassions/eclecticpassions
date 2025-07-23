@@ -1,8 +1,8 @@
 # Hello there, I'm Naty 👩🏻‍💻👋🏻
 
-  - 👩🏻‍⚕️ I'm a junior healthcare professional by training, but currently exploring other interests.
-  - A techy, girl-geek with many hobbies, based in 🇭🇰 Hong Kong, SAR.
-  - Lifelong learner driven by curiosity.
+  - 👩🏻‍⚕️ I'm a junior healthcare professional by training, but currently exploring other interests
+  - A techy, girl-geek with many hobbies, based in 🇭🇰 Hong Kong, SAR
+  - Lifelong learner driven by curiosity
 
 ## ✍️ My blogs
 
