@@ -63,11 +63,16 @@
         </a></td>
 </tr>
   <tr>
+      <td>IDE</td>
+      <td class="icon-row">
+        <a href="https://vscodium.com/" aria-label="VSCodium">
+        <img src="https://img.shields.io/badge/vscodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white" alt="VSCodium">
+      </a>
+        </td>
+  </tr>
+  <tr>
     <td>Frontend</td>
     <td class="icon-row">
-      <a href="https://vscodium.com/" aria-label="VSCodium">
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-      </a>
       <a href="https://html.spec.whatwg.org/multipage/" aria-label="HTML5">
           <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt = "HTML5">
           </a>
