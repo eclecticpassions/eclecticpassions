@@ -6,11 +6,11 @@
 
 ## ✍️ My blogs
 
-[![Static Badge](https://img.shields.io/badge/eclecticpassions.net-FA7602?style=for-the-badge&logo=wordpress&logoColor=%23000000&label=General%20blog&labelColor=%238DCBD2)
-](https://eclecticpassions.net)
-
 [![Static Badge](https://img.shields.io/badge/BurgeonLab.com-E24613?style=for-the-badge&logo=hugo&logoColor=%23000000&label=tech%20blog&labelColor=%23FFB800)
 ](https://www.burgeonlab.com)
+
+[![Static Badge](https://img.shields.io/badge/eclecticpassions.net-FA7602?style=for-the-badge&logo=wordpress&logoColor=%23000000&label=General%20blog&labelColor=%238DCBD2)
+](https://eclecticpassions.net)
 
 [![Static Badge](https://img.shields.io/badge/aperture2iris.com-93A1B6?style=for-the-badge&logo=hugo&logoColor=%23000000&label=Photography%20blog&labelColor=%23ff9b6d)
 ](https://aperture2iris.com)
@@ -24,6 +24,11 @@
   - Android + macOS and occasionally Linux Mint on my retired MBA 13" (2012)
   - Hiking / cycling / city walks / Formula 1
 
+## 🤜🤛 I’m looking to collaborate on
+
+  - Documentations or wiki content for FOSS projects
+  - zh_HANT translations
+  
 ## 🌱 I’m currently
   -  Getting accustomed to being a 'sustainable blogger' (i.e. keeping up with posts without long periods of absences)
   -  Setting up a home-lab with a RPi4B (8GB) running Docker via Portainer
@@ -227,7 +232,6 @@
 **eclecticpassions/eclecticpassions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
 - 💬 Ask me about 
