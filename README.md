@@ -215,11 +215,6 @@
   </a>
 </p>
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eclecticpassions&theme=swift&show_icons=true&hide_border=true" />
-  </a>
-</p>
-<p align="left">
   <a href="https://git.io/streak-stats">
     <img height=200 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=eclecticpassions&theme=vue&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" />
   </a>
