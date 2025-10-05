@@ -4,6 +4,7 @@
   - A techy, girl-geek with many hobbies, based in 🇭🇰 Hong Kong, SAR
   - Lifelong learner driven by curiosity
   - AKA: *BurgeonLab* or *APERTURE2IRIS*
+  - In the process of [migrating](https://www.burgeonlab.com/blog/hosting-static-sites-with-github-pages-or-bunny-net/) my workflows and repos from GitHub to SourceHut (sr.ht)
 
 ## ✍️ My blogs
 
