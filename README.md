@@ -1,10 +1,15 @@
 # Hello there, I'm Naty 👩🏻‍💻👋🏻
 
-  - 👩🏻‍⚕️ I'm a junior healthcare professional by training, but currently exploring other interests
+  - 👩🏻‍⚕️ I'm a junior healthcare professional by training, but currently exploring other domains
   - A techy, girl-geek with many hobbies, based in 🇭🇰 Hong Kong, SAR
   - Lifelong learner driven by curiosity
   - AKA: *BurgeonLab* or *APERTURE2IRIS*
   - In the process of [migrating](https://www.burgeonlab.com/blog/hosting-static-sites-with-github-pages-or-bunny-net/) my workflows and repos from GitHub to SourceHut (sr.ht)
+
+## 🤜🤛 I’m looking to collaborate on
+
+  - Technical writing (documentation/wiki) for open source projects
+  - en/zh_HANT translations
 
 ## ✍️ My blogs
 
@@ -25,11 +30,6 @@
   - Home lab / self-hosting / Raspberry Pi (running dietpi)
   - Android + macOS and occasionally Linux Mint on my retired MBA 13" (2012)
   - Hiking / cycling / city walks / Formula 1
-
-## 🤜🤛 I’m looking to collaborate on
-
-  - Documentations or wiki content for FOSS projects
-  - zh_HANT translations
   
 ## 🌱 I’m currently
   -  Getting accustomed to being a 'sustainable blogger' (i.e. keeping up with posts without long periods of absences)
