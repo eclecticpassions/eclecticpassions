@@ -32,16 +32,32 @@
   - Hiking / cycling / city walks / Formula 1
   
 ## 🌱 I’m currently
-  -  Getting accustomed to being a 'sustainable blogger' (i.e. keeping up with posts without long periods of absences)
-  -  Setting up a home-lab with a RPi4B (8GB) running Docker via Portainer
+  -  Getting accustomed to being a 'sustainable blogger' (i.e. keeping up with posts without long periods of absences), exploring static web development with Hugo
+  -  Transitioning my digital reliance towards more privacy-friendly options, moving away from Big Tech and US-based services in general
   -  Learning basic Python for data science
   -  Fine-tuning my personal knowledge management (PKM) system using Obsidian
-  -  Transitioning my digital reliance towards more privacy-friendly options, moving away from Big Tech and US-based services in general
+  -  Setting up a home-lab with a RPi4B (8GB) running Docker via Portainer
 
 ## 👩‍💻 Tech stack
 
+I have varying experience with the following:
+
 <table class="techstack">
   <tbody>
+      <tr>
+    <td>Operating Systems</td>
+    <td class="icon-row">
+      <a href="https://en.wikipedia.org/wiki/Android_(operating_system)" aria-label="Android">
+        <img src="https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+      </a>
+      <a href="https://en.wikipedia.org/wiki/MacOS" aria-label="macOS">
+        <img src="https://img.shields.io/badge/macos-eeeeee?style=for-the-badge&logo=apple&logoColor=black" alt="macOS">
+      </a>
+      <a href="https://www.linuxmint.com/" aria-label="LinuxMint">
+          <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" alt="Linux Mint">
+      </a>
+         </td>
+</tr>
   <tr>
       <td>CLI Tools</td>
       <td class="icon-row">
@@ -54,65 +70,19 @@
       </td>
   </tr>
   <tr>
-    <td>Operating Systems</td>
-    <td class="icon-row">
-      <a href="https://en.wikipedia.org/wiki/Android_(operating_system)" aria-label="Android">
-        <img src="https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-      </a>
-      <a href="https://en.wikipedia.org/wiki/MacOS" aria-label="macOS">
-        <img src="https://img.shields.io/badge/macos-eeeeee?style=for-the-badge&logo=apple&logoColor=black" alt="macOS">
-      </a>
-      <a href="https://www.linuxmint.com/" aria-label="LinuxMint">
-          <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" alt="Linux Mint">
-      </a>
-         <a href="https://kernel.org/" aria-label="Linux">
-          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-        </a></td>
-</tr>
-  <tr>
-      <td>IDE</td>
-      <td class="icon-row">
-        <a href="https://vscodium.com/" aria-label="VSCodium">
-        <img src="https://img.shields.io/badge/vscodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white" alt="VSCodium">
-      </a>
-        </td>
-  </tr>
-  <tr>
     <td>Frontend</td>
     <td class="icon-row">
       <a href="https://html.spec.whatwg.org/multipage/" aria-label="HTML5">
           <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt = "HTML5">
           </a>
-          <a href="https://www.w3.org/TR/css/#css" aria-label="CSS">
+      <a href="https://www.w3.org/TR/css/#css" aria-label="CSS">
           <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
           </a>
-          <a href="https://tailwindcss.com/" aria-label="Tailwind CSS">
-          <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" aria-label="JavaScript">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript">
           </a>
-        </td>
-</tr><tr>
-  <td>Programming Languages</td>
-  <td class="icon-row">
-    <a href="https://www.python.org/" aria-label="Python">
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-    </a>
-    <a href="https://go.dev/" aria-label="Go">
-        <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-    </a>
-  </td>
 </tr>
-<tr>
-  <td>Markup Languages</td>
-  <td class="icon-row">
-    <a href="https://en.wikipedia.org/wiki/Markdown" aria-label="Markdown">
-    <img src="https://img.shields.io/badge/markdown-167DAD?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-    </a>
-    <a href="https://toml.io/en/" aria-label="TOML">
-       <img src="https://img.shields.io/badge/toml-9C4221?style=for-the-badge&logo=toml&logoColor=white" alt="TOML">
-    </a>
-      </td>
-</tr>
-  <tr>
+    <tr>
       <td>CMS</td>
       <td class="icon-row">
         <a href="https://gohugo.io/" aria-label="Hugo">
@@ -123,49 +93,47 @@
         </td>
   </tr>
   <tr>
-      <td>Version Control</td>
+  <td>Markup Languages</td>
+  <td class="icon-row">
+    <a href="https://en.wikipedia.org/wiki/Markdown" aria-label="Markdown">
+    <img src="https://img.shields.io/badge/markdown-167DAD?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+    </a>
+    <a href="https://toml.io/en/" aria-label="TOML">
+       <img src="https://img.shields.io/badge/toml-9C4221?style=for-the-badge&logo=toml&logoColor=white" alt="TOML">
+    </a>
+    <a href="https://www.w3.org/XML/" aria-label="XML">
+        <img src="https://img.shields.io/badge/XML-005FAD?logo=xml&logoColor=fff&style=for-the-badge" alt="XML">
+    </a>
+      </td>
+</tr>
+  <tr>
+      <td>Version Control/Git Forge</td>
       <td class="icon-row">
         <a href="https://git-scm.com/" aria-label="Git">
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
         </a>
-        <a href="https://github.com/" aria-label="GitHub">
-        <img src="https://img.shields.io/badge/github-2b2b2b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        <a href="https://sr.ht/" aria-label="SourceHut">
+        <img src="https://img.shields.io/badge/SourceHut-000?logo=sourcehut&logoColor=white&style=for-the-badge" alt="SourceHut">
         </a>
-      </td>
   </tr>
   <tr>
-    <td>Home Lab</td>
-    <td class="icon-row">
-      <a href="https://www.raspberrypi.com/" aria-label="Raspberry Pi">
-        <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi">
-        </a>
-      <a href="https://docs.docker.com/get-started/" aria-label="Docker">
-        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-        </a>
-      <a href="https://portal.portainer.io/knowledge/" aria-label="Portainer">
-        <img src="https://img.shields.io/badge/portainer-C080FF?style=for-the-badge&logo=portainer&logoColor=white" alt="Portainer">
-      </a>
-</tr>
-<tr>
-    <td>Data Science</td>
-    <td class="icon-row">
-      <a href="https://numpy.org/" aria-label="NumPy">
-        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-        </a>
-      <a href="https://pandas.pydata.org/" aria-label="pandas">
-        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-        </a>
-        <a href="https://matplotlib.org/" aria-label="Matplotlib">
-        <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
-        </a></td>
-</tr>
-<tr>
-    <td>Database</td>
-    <td class="icon-row">
-      <a href="https://sqlite.org/index.html" aria-label="SQLite">
-        <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-        </a>
+  <td>IDE</td>
+  <td class="icon-row">
+    <a href="https://vscodium.com/" aria-label="VSCodium">
+    <img src="https://img.shields.io/badge/vscodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white" alt="VSCodium">
+  </a>
     </td>
+  </tr>
+  <tr>
+  <td>Programming Languages</td>
+  <td class="icon-row">
+    <a href="https://www.python.org/" aria-label="Python">
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    </a>
+    <a href="https://go.dev/" aria-label="Go">
+        <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+    </a>
+  </td>
 </tr>
 <tr>
     <td>Generative AI</td>
@@ -183,7 +151,41 @@
     </a>
   </td>
 </tr>
-  </tbody>
+<tr>
+    <td>Database</td>
+    <td class="icon-row">
+      <a href="https://sqlite.org/index.html" aria-label="SQLite">
+        <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+        </a>
+    </td>
+</tr>
+<tr>
+    <td>Data Science</td>
+    <td class="icon-row">
+      <a href="https://numpy.org/" aria-label="NumPy">
+        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+        </a>
+      <a href="https://pandas.pydata.org/" aria-label="pandas">
+        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+        </a>
+        <a href="https://matplotlib.org/" aria-label="Matplotlib">
+        <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
+        </a></td>
+</tr>
+<tr>
+  <td>Home Lab</td>
+    <td class="icon-row">
+      <a href="https://www.raspberrypi.com/" aria-label="Raspberry Pi">
+        <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi">
+      </a>
+      <a href="https://docs.docker.com/get-started/" aria-label="Docker">
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      </a>
+      <a href="https://portal.portainer.io/knowledge/" aria-label="Portainer">
+        <img src="https://img.shields.io/badge/portainer-C080FF?style=for-the-badge&logo=portainer&logoColor=white" alt="Portainer">
+    </a>
+</tr>
+</tbody>
 </table>
 
 ## 📫 How to reach me
@@ -226,12 +228,9 @@
 [^1]: New [page counter](https://github.com/antonkomarev/github-profile-views-counter) added on 2025/07/21 (previous counter=4k).
 
 <!--
-**eclecticpassions/eclecticpassions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
 - 💬 Ask me about 
-
 https://github.com/Ileriayo/markdown-badges
 -->
