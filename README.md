@@ -11,6 +11,10 @@
   - Technical writing (documentation/wiki) for open source projects
   - en/zh_HANT translations
 
+## 🔭 I’m currently working on
+
+  - Creating my first public, open source Hugo widget with accompanying documentation site
+
 ## ✍️ My blogs
 
 [![Static Badge](https://img.shields.io/badge/BurgeonLab.com-E24613?style=for-the-badge&logo=hugo&logoColor=%23000000&label=tech%20blog&labelColor=%23FFB800)
@@ -228,7 +232,6 @@ I have varying experience with the following:
 [^1]: New [page counter](https://github.com/antonkomarev/github-profile-views-counter) added on 2025/07/21 (previous counter=4k).
 
 <!--
-- 🔭 I’m currently working on ...
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
 - 💬 Ask me about 
