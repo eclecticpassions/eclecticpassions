@@ -1,10 +1,14 @@
+> [!NOTE]
+> I'm in the process of [migrating](https://www.burgeonlab.com/blog/hosting-static-sites-with-github-pages-or-bunny-net/) my workflows and repos from GitHub to [SourceHut (sr.ht)](https://sr.ht/~eclecticpassions/) & [Codeberg](https://codeberg.org/ecp).
+
+---
+
 # Hello there, I'm Naty 👩🏻‍💻👋🏻
 
   - 👩🏻‍⚕️ I'm a junior healthcare professional by training, but currently exploring other domains
   - A techy, girl-geek with many hobbies, based in 🇭🇰 Hong Kong, SAR
   - Lifelong learner driven by curiosity
   - AKA: *BurgeonLab* or *APERTURE2IRIS*
-  - In the process of [migrating](https://www.burgeonlab.com/blog/hosting-static-sites-with-github-pages-or-bunny-net/) my workflows and repos from GitHub to SourceHut (sr.ht)
 
 ## 🤜🤛 I’m looking to collaborate on
 
