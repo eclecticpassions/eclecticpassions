@@ -1,5 +1,5 @@
 > [!NOTE]
-> I'm in the process of [migrating](https://www.burgeonlab.com/blog/hosting-static-sites-with-github-pages-or-bunny-net/) my workflows and repos from GitHub to [SourceHut (sr.ht)](https://sr.ht/~eclecticpassions/) & [Codeberg](https://codeberg.org/ecp).
+> I'm in the process of [migrating](https://burgeonlab.com/blog/hosting-static-sites-with-github-pages-or-bunny-net/) my workflows and repos from GitHub to [SourceHut (sr.ht)](https://sr.ht/~eclecticpassions/) & [Codeberg](https://codeberg.org/ecp).
 
 ---
 
@@ -22,7 +22,7 @@
 ## ✍️ My blogs
 
 [![Static Badge](https://img.shields.io/badge/BurgeonLab.com-E24613?style=for-the-badge&logo=hugo&logoColor=%23000000&label=tech%20blog&labelColor=%23FFB800)
-](https://www.burgeonlab.com)
+](https://burgeonlab.com)
 
 [![Static Badge](https://img.shields.io/badge/eclecticpassions.net-FA7602?style=for-the-badge&logo=wordpress&logoColor=%23000000&label=General%20blog&labelColor=%238DCBD2)
 ](https://eclecticpassions.net)
@@ -207,7 +207,7 @@ I have varying experience with the following:
 
 [![Static Badge](https://img.shields.io/badge/Subscribe_to_eclecticpassions.net-RSS-orange?style=for-the-badge&logo=RSS&logoColor=%23FE7D37)](https://eclecticpassions.net/feed)
 
-[![Static Badge](https://img.shields.io/badge/Subscribe_to_burgeonlab.com-RSS-orange?style=for-the-badge&logo=RSS&logoColor=%23FE7D37)](https://www.burgeonlab.com/index.xml)
+[![Static Badge](https://img.shields.io/badge/Subscribe_to_burgeonlab.com-RSS-orange?style=for-the-badge&logo=RSS&logoColor=%23FE7D37)](https://burgeonlab.com/index.xml)
 
 [![Static Badge](https://img.shields.io/badge/Subscribe_to_aperture2iris.com-RSS-orange?style=for-the-badge&logo=RSS&logoColor=%23FE7D37)](https://aperture2iris.com/index.xml)
 
