@@ -207,7 +207,7 @@ I have varying experience with the following:
 
 [![Static Badge](https://img.shields.io/badge/Subscribe_to_eclecticpassions.net-RSS-orange?style=for-the-badge&logo=RSS&logoColor=%23FE7D37)](https://eclecticpassions.net/feed)
 
-[![Static Badge](https://img.shields.io/badge/Subscribe_to_burgeonlab.com-RSS-orange?style=for-the-badge&logo=RSS&logoColor=%23FE7D37)](https://burgeonlab.com/index.xml)
+[![Static Badge](https://img.shields.io/badge/Subscribe_to_burgeonlab.com-RSS-orange?style=for-the-badge&logo=RSS&logoColor=%23FE7D37)](https://burgeonlab.com/subscribe)
 
 [![Static Badge](https://img.shields.io/badge/Subscribe_to_aperture2iris.com-RSS-orange?style=for-the-badge&logo=RSS&logoColor=%23FE7D37)](https://aperture2iris.com/index.xml)
 
