@@ -1,12 +1,7 @@
-> [!NOTE]
-> I'm in the process of [migrating](https://burgeonlab.com/blog/hosting-static-sites-with-github-pages-or-bunny-net/) my workflows and repos from GitHub to [SourceHut (sr.ht)](https://sr.ht/~eclecticpassions/) & [Codeberg](https://codeberg.org/ecp).
-
----
-
 # Hello there, I'm Naty 👩🏻‍💻👋🏻
 
-  - 👩🏻‍⚕️ I'm a junior healthcare professional by training, but currently exploring other domains
-  - A techy, girl-geek with many hobbies, based in 🇭🇰 Hong Kong, SAR
+  - 👩🏻‍⚕️ I'm a junior healthcare professional by training, but currently looking for work in non-clinical domains
+  - A techy geek with many hobbies, based in 🇭🇰 Hong Kong, SAR
   - Lifelong learner driven by curiosity
   - AKA: *BurgeonLab* or *APERTURE2IRIS*
 
@@ -18,13 +13,14 @@
 ## 🔭 I’m currently working on
 
   - Creating my first public, open source Hugo widget with accompanying documentation site
+  - Incorporating [Indieweb](https://indieweb.org/) into my primary blog ([burgeonlab.com](https://www.burgeonlab.com)) with tools like [Indiekit](https://getindiekit.com/), [Webmention.io](https://webmention.io/), and [Telegraph](https://telegraph.p3k.io/)
 
 ## ✍️ My blogs
 
-[![Static Badge](https://img.shields.io/badge/BurgeonLab.com-E24613?style=for-the-badge&logo=hugo&logoColor=%23000000&label=tech%20blog&labelColor=%23FFB800)
+[![Static Badge](https://img.shields.io/badge/BurgeonLab.com-E24613?style=for-the-badge&logo=hugo&logoColor=%23000000&label=main%20blog&labelColor=%23FFB800)
 ](https://burgeonlab.com)
 
-[![Static Badge](https://img.shields.io/badge/eclecticpassions.net-FA7602?style=for-the-badge&logo=wordpress&logoColor=%23000000&label=General%20blog&labelColor=%238DCBD2)
+[![Static Badge](https://img.shields.io/badge/eclecticpassions.net-FA7602?style=for-the-badge&logo=wordpress&logoColor=%23000000&label=secondary%20blog&labelColor=%238DCBD2)
 ](https://eclecticpassions.net)
 
 [![Static Badge](https://img.shields.io/badge/aperture2iris.com-93A1B6?style=for-the-badge&logo=hugo&logoColor=%23000000&label=Photography%20blog&labelColor=%23ff9b6d)
@@ -32,19 +28,23 @@
 
 ## ☕ Interests
   - Free open source software (FOSS) and raising awareness for privacy-centric services
-  - Webdev and blogging (experience with static-site generator Hugo and self-hosted WordPress)
-  - Digital and film photography (favourite genres: street, urban, macro) / moving to FOSS post-processing options post-Adobe era
-  - Speciality coffee / manual brewing / a "home barista" if you will
-  - Home lab / self-hosting / Raspberry Pi (running dietpi)
-  - Android + macOS and occasionally Linux Mint on my retired MBA 13" (2012)
+  - Web dev and blogging (experience with Hugo (static site generator) and self-hosted WordPress)
+  - Digital and film photography (favourite genres: street, urban, macro) & moving to FOSS post-processing options post-Adobe era
+  - Speciality coffee / manual filter & espresso (a "home barista" if you will!)
+  - Home lab / self-hosting with a Raspberry Pi 4B 8GB running DietPi
+  - Android + macOS and occasionally Linux Mint on my retired Macbook Air 13" (2012)
   - Hiking / cycling / city walks / Formula 1
   
 ## 🌱 I’m currently
+  -  Looking for work that combines my tech interest with medical background
   -  Getting accustomed to being a 'sustainable blogger' (i.e. keeping up with posts without long periods of absences), exploring static web development with Hugo
-  -  Transitioning my digital reliance towards more privacy-friendly options, moving away from Big Tech and US-based services in general
+  -  Transitioning my digital reliance towards more privacy-friendly options, moving away from Big Tech (enshittification) and US-based services in general
   -  Learning basic Python for data science
   -  Fine-tuning my personal knowledge management (PKM) system using Obsidian
   -  Setting up a home-lab with a RPi4B (8GB) running Docker via Portainer
+
+> [!NOTE]
+> I'm in the process of [migrating](https://burgeonlab.com/blog/hosting-static-sites-with-github-pages-or-bunny-net/) my workflows and repos from GitHub to [SourceHut (sr.ht)](https://sr.ht/~eclecticpassions/) & [Codeberg](https://codeberg.org/ecp).
 
 ## 👩‍💻 Tech stack
 
@@ -112,6 +112,9 @@ I have varying experience with the following:
     <a href="https://www.w3.org/XML/" aria-label="XML">
         <img src="https://img.shields.io/badge/XML-005FAD?logo=xml&logoColor=fff&style=for-the-badge" alt="XML">
     </a>
+     <a href="https://www.json.org/json-en.html" aria-label="JSON">
+        <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=for-the-badge" alt="JSON">
+    </a>
       </td>
 </tr>
   <tr>
@@ -122,6 +125,9 @@ I have varying experience with the following:
         </a>
         <a href="https://sr.ht/" aria-label="SourceHut">
         <img src="https://img.shields.io/badge/SourceHut-000?logo=sourcehut&logoColor=white&style=for-the-badge" alt="SourceHut">
+        </a>
+        <a href="https://github.com/" aria-label="GitHub">
+        <img src="https://img.shields.io/badge/GitHub-1B1B1D?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
         </a>
   </tr>
   <tr>
@@ -219,12 +225,10 @@ I have varying experience with the following:
 [![Static Badge](https://img.shields.io/badge/donate-Ko_fi?style=for-the-badge&logo=kofi&logoColor=%23ffffff&label=Buy%20me%20a%20coffee&labelColor=%23FF6433&color=%23ffffff)](https://ko-fi.com/eclecticpassions)
 
 ## 📊 Stats
-
+  
 <p align="left">
-  <a href="[https://github.com/LordDashMe/github-contribution-stats](https://github.com/anuraghazra/github-readme-stats)/">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eclecticpassions&show_icons=true&hide=stars&show=prs_merged,prs_merged_percentage&theme=vue&hide_rank=true" />
-  </a>
-</p>
+ <a href="https://github.com/LordDashMe/github-contribution-stats/">
+   <img src="https://github-contribution-stats.vercel.app/api/?username=eclecticpassions" alt="Contribution Stats"></a>
 <p align="left">
   <a href="https://git.io/streak-stats">
     <img height=200 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=eclecticpassions&theme=vue&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" />
