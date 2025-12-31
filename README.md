@@ -17,20 +17,32 @@
 
 ## ✍️ My blogs
 
-BurgeonLab.com is my personal site and main blogging outlet where I write about mostly tech related topics; but I plan to expand on that and make it truly my personal hub that can connect with others using Indieweb principles. It runs on Hugo, which is my favourite CMS—you can learn more about the technical aspects on the [blog's README](https://sr.ht/~eclecticpassions/burgeonlab/).
+### BurgeonLab.com
+
+This is my personal site and main blogging outlet where I write about mostly tech related topics; but I plan to expand on that and make it truly my personal hub that can connect with others using Indieweb principles. It runs on Hugo, which is my favourite CMS—you can learn more about the technical aspects on the [blog's README](https://sr.ht/~eclecticpassions/burgeonlab/).
 
 [![Static Badge](https://img.shields.io/badge/BurgeonLab.com-E24613?style=for-the-badge&logo=hugo&logoColor=%23000000&label=main%20blog&labelColor=%23FFB800)
-](https://burgeonlab.com) [![Static Badge](https://img.shields.io/badge/Subscribe_to_burgeonlab.com-RSS-orange?style=for-the-badge&logo=RSS&logoColor=%23FE7D37)](https://burgeonlab.com/subscribe)
+](https://burgeonlab.com)
 
-Eclecticpassions.net was my first blog and runs on self-hosted WordPress. I didn't enjoy my experience of using WP (hence switching to Hugo), but the process was invaluable. It allowed me to learn from experience, building a foundation for basic web development skills (like improving page performance, CDN integration, HTML/CSS tweaks, blog writing and SEO best practices, etc). I don't write here often though—I treat it as a secondary blog.
+[![Static Badge](https://img.shields.io/badge/Subscribe-ATOM-orange?style=plastic&labelColor=%23010412&logo=RSS&logoColor=%23FE7D37)](https://burgeonlab.com/subscribe)
+
+### Eclecticpassions.net 
+
+This was my first blog and runs on self-hosted WordPress. I didn't enjoy my experience of using WP (hence switching to Hugo), but the process was invaluable. It allowed me to learn from experience, building a foundation for basic web development skills (like improving page performance, CDN integration, HTML/CSS tweaks, blog writing and SEO best practices, etc). I don't write here often though and I'm considering if I should consolidate it with BurgeonLab.
 
 [![Static Badge](https://img.shields.io/badge/eclecticpassions.net-FA7602?style=for-the-badge&logo=wordpress&logoColor=%23000000&label=secondary%20blog&labelColor=%238DCBD2)
-](https://eclecticpassions.net) [![Static Badge](https://img.shields.io/badge/Subscribe_to_eclecticpassions.net-RSS-orange?style=for-the-badge&logo=RSS&logoColor=%23FE7D37)](https://eclecticpassions.net/feed)
+](https://eclecticpassions.net)
 
-Aperture2iris.com ~is~ will be the place I share my photography-related content (it's under construction). I'm an avid hobbyist photographer and it's my biggest hobby. Ever since I left the Adobe ship (user for over 15y), I no longer have a portfolio up online. I plan to use Hugo to share my portfolio and also write blogs about my gear, processes, etc.
+[![Static Badge](https://img.shields.io/badge/Subscribe-RSS-orange?style=plastic&labelColor=%23010412&&logo=RSS&logoColor=%23FE7D37)](https://eclecticpassions.net/feed)
+
+### Aperture2iris.com 
+
+This ~is~ will be the place I share my photography-related content (it's under construction). I'm an avid hobbyist photographer and it's my biggest hobby. Ever since I left the Adobe ship (user for over 15y), I no longer have a portfolio up online. I plan to use Hugo to share my portfolio and also write blogs about my gear, processes, etc.
 
 [![Static Badge](https://img.shields.io/badge/aperture2iris.com-93A1B6?style=for-the-badge&logo=hugo&logoColor=%23000000&label=Photography%20blog&labelColor=%23ff9b6d)
-](https://aperture2iris.com) [![Static Badge](https://img.shields.io/badge/Subscribe_to_aperture2iris.com-RSS-orange?style=for-the-badge&logo=RSS&logoColor=%23FE7D37)](https://aperture2iris.com/index.xml)
+](https://aperture2iris.com)
+
+[![Static Badge](https://img.shields.io/badge/Subscribe-RSS-orange?style=plastic&labelColor=%23010412&&logo=RSS&logoColor=%23FE7D37)](https://aperture2iris.com/index.xml)
 
 ## ☕ Interests
   - Free open source software (FOSS) and raising awareness for privacy-centric services
