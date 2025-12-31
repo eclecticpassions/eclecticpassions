@@ -17,14 +17,20 @@
 
 ## ✍️ My blogs
 
+BurgeonLab.com is my personal site and main blogging outlet where I write about mostly tech related topics; but I plan to expand on that and make it truly my personal hub that can connect with others using Indieweb principles. It runs on Hugo, which is my favourite CMS—you can learn more about the technical aspects on the [blog's README](https://sr.ht/~eclecticpassions/burgeonlab/).
+
 [![Static Badge](https://img.shields.io/badge/BurgeonLab.com-E24613?style=for-the-badge&logo=hugo&logoColor=%23000000&label=main%20blog&labelColor=%23FFB800)
-](https://burgeonlab.com)
+](https://burgeonlab.com) [![Static Badge](https://img.shields.io/badge/Subscribe_to_burgeonlab.com-RSS-orange?style=for-the-badge&logo=RSS&logoColor=%23FE7D37)](https://burgeonlab.com/subscribe)
+
+Eclecticpassions.net was my first blog and runs on self-hosted WordPress. I didn't enjoy my experience of using WP (hence switching to Hugo), but the process was invaluable. It allowed me to learn from experience, building a foundation for basic web development skills (like improving page performance, CDN integration, HTML/CSS tweaks, blog writing and SEO best practices, etc). I don't write here often though—I treat it as a secondary blog.
 
 [![Static Badge](https://img.shields.io/badge/eclecticpassions.net-FA7602?style=for-the-badge&logo=wordpress&logoColor=%23000000&label=secondary%20blog&labelColor=%238DCBD2)
-](https://eclecticpassions.net)
+](https://eclecticpassions.net) [![Static Badge](https://img.shields.io/badge/Subscribe_to_eclecticpassions.net-RSS-orange?style=for-the-badge&logo=RSS&logoColor=%23FE7D37)](https://eclecticpassions.net/feed)
+
+Aperture2iris.com ~is~ will be the place I share my photography-related content (it's under construction). I'm an avid hobbyist photographer and it's my biggest hobby. Ever since I left the Adobe ship (user for over 15y), I no longer have a portfolio up online. I plan to use Hugo to share my portfolio and also write blogs about my gear, processes, etc.
 
 [![Static Badge](https://img.shields.io/badge/aperture2iris.com-93A1B6?style=for-the-badge&logo=hugo&logoColor=%23000000&label=Photography%20blog&labelColor=%23ff9b6d)
-](https://aperture2iris.com)
+](https://aperture2iris.com) [![Static Badge](https://img.shields.io/badge/Subscribe_to_aperture2iris.com-RSS-orange?style=for-the-badge&logo=RSS&logoColor=%23FE7D37)](https://aperture2iris.com/index.xml)
 
 ## ☕ Interests
   - Free open source software (FOSS) and raising awareness for privacy-centric services
@@ -203,26 +209,29 @@ I have varying experience with the following:
 </table>
 
 ## 📫 How to reach me
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/110631569439879798?domain=fosstodon.org&style=for-the-badge&logo=mastodon&logoColor=%234A9AA5&labelColor=20202C&color=FB7402&link=https%3A%2F%2Ffosstodon.org%2F%40eclecticpassions)](https://fosstodon.org/@eclecticpassions)
 
-[![Static Badge](https://img.shields.io/badge/follow-me?style=for-the-badge&logo=instagram&label=Instagram&labelColor=%2320202C&color=%23E43F5F&link=https%3A%2F%2Fwww.instagram.com%2Feclecticpassions)](https://www.instagram.com/eclecticpassions/)
+[![Static Badge](https://img.shields.io/badge/chat-chat?style=for-the-badge&logoColor=%234449F7&logo=signal&label=Signal&labelColor=%23010412&color=%234449F7)](https://signal.me/#eu/vfUVz1xMsQCcQL41GWXAjIJLXT9a7v4Qr2e1Z9fzdUW8JynHUVFCjYBFg7BAlbHH)
 
-[![Static Badge](https://img.shields.io/badge/chat-chat?style=for-the-badge&logo=matrix&label=Matrix&labelColor=%2320202C&color=%230DBF97&link=https%3A%2F%2Fmatrix.to%2F%23%2F%40burgeon%3Atchncs.de)](https://matrix.to/#/@burgeon:tchncs.de)
+[![Static Badge](https://img.shields.io/badge/chat-chat?style=for-the-badge&logoColor=%230DBF97&logo=matrix&label=Matrix&labelColor=%23010412&color=%230DBF97)](https://matrix.to/#/@burgeon:tchncs.de)
 
-## 🔔 RSS feeds
+[![Static Badge](https://img.shields.io/badge/email-tuta?style=for-the-badge&logoColor=%23d93951&logo=tuta&label=Tuta&labelColor=%23010412&color=%23d93951)](mailto:naty@eclecticpassions.net)
 
-[![Static Badge](https://img.shields.io/badge/Subscribe_to_eclecticpassions.net-RSS-orange?style=for-the-badge&logo=RSS&logoColor=%23FE7D37)](https://eclecticpassions.net/feed)
+## 💬 Social media
 
-[![Static Badge](https://img.shields.io/badge/Subscribe_to_burgeonlab.com-RSS-orange?style=for-the-badge&logo=RSS&logoColor=%23FE7D37)](https://burgeonlab.com/subscribe)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/110631569439879798?domain=fosstodon.org&style=for-the-badge&logo=mastodon&logoColor=%23858AFA&labelColor=010412&color=6364FF)](https://fosstodon.org/@eclecticpassions)
 
-[![Static Badge](https://img.shields.io/badge/Subscribe_to_aperture2iris.com-RSS-orange?style=for-the-badge&logo=RSS&logoColor=%23FE7D37)](https://aperture2iris.com/index.xml)
-
+[![Static Badge](https://img.shields.io/badge/instagram-coffee?style=for-the-badge&logo=instagram&logoColor=E1306C&labelColor=010412&label=coffee%20content&color=E1306C)
+](https://www.instagram.com/eclecticpassions/)
 
 ## 🎁 Support me
 
-[![Liberapay receiving](https://img.shields.io/liberapay/receives/Naty.S?style=for-the-badge&logo=liberapay)](https://liberapay.com/~1860582/)
+If my [blog posts](https://burgeonlab.com/blog/) or [how-to guides](https://burgeonlab.com/series/how-to-guide/) were helpful, I would be grateful for any support. Your encouragement motivates me to produce more useful content. Thank you!
 
-[![Static Badge](https://img.shields.io/badge/donate-Ko_fi?style=for-the-badge&logo=kofi&logoColor=%23ffffff&label=Buy%20me%20a%20coffee&labelColor=%23FF6433&color=%23ffffff)](https://ko-fi.com/eclecticpassions)
+[![Static Badge](https://img.shields.io/badge/donate-liberapay?style=for-the-badge&logo=liberapay&label=give%20a%20tip&labelColor=010412&color=yellow)
+](https://liberapay.com/~1860582/)
+
+[![Static Badge](https://img.shields.io/badge/kofi-grey?style=for-the-badge&logo=kofi&logoColor=FF6433&label=buy%20me%20a&labelColor=010412&color=FF6433)
+](https://ko-fi.com/eclecticpassions)
 
 ## 📊 Stats
   
