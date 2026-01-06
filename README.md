@@ -1,7 +1,7 @@
-# Hello there, I'm Naty 👩🏻‍💻👋🏻
+# Hello 👋, I'm Naty 👩🏻‍💻👩🏻‍⚕
 
-  - 👩🏻‍⚕️ I'm a junior healthcare professional by training, but currently looking for work in non-clinical domains
-  - A techy geek with many hobbies, based in 🇭🇰 Hong Kong, SAR
+  - A junior healthcare professional by training, but currently looking for work in non-clinical domains
+  - A tech geek with many hobbies, based in 🇭🇰 Hong Kong, SAR
   - Lifelong learner driven by curiosity
 > AKA: *BurgeonLab* or *APERTURE2IRIS*
 
@@ -64,7 +64,7 @@ This ~is~ will be the place I share my photography-related content (it's under c
 > [!NOTE]
 > I'm in the process of [migrating](https://burgeonlab.com/blog/hosting-static-sites-with-github-pages-or-bunny-net/) my workflows and repos from GitHub to [SourceHut (sr.ht)](https://sr.ht/~eclecticpassions/) & [Codeberg](https://codeberg.org/ecp).
 
-## 👩‍💻 Tech stack
+## 📚 Tech stack
 
 I have varying experience with the following:
 
