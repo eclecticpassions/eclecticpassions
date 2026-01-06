@@ -19,7 +19,7 @@
 
 ### BurgeonLab.com
 
-This is my personal site and main blogging outlet where I write about mostly tech related topics; but I plan to expand on that and make it truly my personal hub that can connect with others using Indieweb principles. It runs on Hugo, which is my favourite CMS—you can learn more about the technical aspects on the [blog's README](https://sr.ht/~eclecticpassions/burgeonlab/).
+This is my personal site and main blogging outlet where I usually [write](https://burgeonlab.com/blog/) about tech-related topics and [how-to guides](https://burgeonlab.com/series/how-to-guide/); but I plan to expand on that and make it truly my personal hub that can connect with others using Indieweb principles. It runs on Hugo, which is my favourite CMS—you can learn more about the technical aspects on the [blog's README](https://sr.ht/~eclecticpassions/burgeonlab/).
 
 [![Static Badge](https://img.shields.io/badge/BurgeonLab.com-E24613?style=for-the-badge&logo=hugo&logoColor=%23000000&label=main%20blog&labelColor=%23FFB800)
 ](https://burgeonlab.com)
@@ -226,7 +226,7 @@ I have varying experience with the following:
 
 [![Static Badge](https://img.shields.io/badge/chat-chat?style=for-the-badge&logoColor=%230DBF97&logo=matrix&label=Matrix&labelColor=%23010412&color=%230DBF97)](https://matrix.to/#/@burgeon:tchncs.de)
 
-[![Static Badge](https://img.shields.io/badge/email-tuta?style=for-the-badge&logoColor=%23d93951&logo=tuta&label=Tuta&labelColor=%23010412&color=%23d93951)](mailto:naty@eclecticpassions.net)
+[![Static Badge](https://img.shields.io/badge/email-tuta?style=for-the-badge&logoColor=%23d93951&logo=tuta&label=Tuta&labelColor=%23010412&color=%23d93951)](https://burgeonlab.com/contact/#email)
 
 ## 💬 Social media
 
@@ -237,7 +237,7 @@ I have varying experience with the following:
 
 ## 🎁 Support me
 
-If my [blog posts](https://burgeonlab.com/blog/) or [how-to guides](https://burgeonlab.com/series/how-to-guide/) were helpful, I would be grateful for any support. Your encouragement motivates me to produce more useful content. Thank you!
+If my content or contribution has helped, a donation would be greatly appreciated. Your encouragement motivates me to write. Thank you!
 
 [![Static Badge](https://img.shields.io/badge/donate-liberapay?style=for-the-badge&logo=liberapay&label=give%20a%20tip&labelColor=010412&color=yellow)
 ](https://liberapay.com/~1860582/)
