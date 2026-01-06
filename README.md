@@ -249,7 +249,7 @@ If my [blog posts](https://burgeonlab.com/blog/) or [how-to guides](https://burg
   
 <p align="left">
  <a href="https://github.com/LordDashMe/github-contribution-stats/">
-   <img src="https://github-contribution-stats.vercel.app/api/?username=eclecticpassions" alt="Contribution Stats"></a>
+   <img src="https://github-contribution-stats.vercel.app/api/?username=eclecticpassions" alt="Contribution Stats (refresh if you do not see two stat cards)"></a>
 <p align="left">
   <a href="https://git.io/streak-stats">
     <img height=200 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=eclecticpassions&theme=vue&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" />
