@@ -3,7 +3,7 @@
   - 👩🏻‍⚕️ I'm a junior healthcare professional by training, but currently looking for work in non-clinical domains
   - A techy geek with many hobbies, based in 🇭🇰 Hong Kong, SAR
   - Lifelong learner driven by curiosity
-  - AKA: *BurgeonLab* or *APERTURE2IRIS*
+> AKA: *BurgeonLab* or *APERTURE2IRIS*
 
 ## 🤜🤛 I’m looking to collaborate on
 
