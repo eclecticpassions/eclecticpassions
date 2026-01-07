@@ -62,7 +62,7 @@ This ~is~ will be the place I share my photography-related content (it's under c
   -  Setting up a home-lab with a RPi4B (8GB) running Docker via Portainer
 
 > [!NOTE]
-> I'm in the process of [migrating](https://burgeonlab.com/blog/hosting-static-sites-with-github-pages-or-bunny-net/) my workflows and repos from GitHub to [SourceHut (sr.ht)](https://sr.ht/~eclecticpassions/) & [Codeberg](https://codeberg.org/ecp).
+> I'm in the process of [migrating](https://burgeonlab.com/blog/hosting-static-sites-with-github-pages-or-bunny-net/) my workflows and repos from GitHub to [SourceHut (sr.ht)](https://sr.ht/~eclecticpassions/) & [Codeberg](https://codeberg.org/burgeonlab).
 
 ## 📚 Tech stack
 
