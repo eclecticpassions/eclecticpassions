@@ -5,9 +5,9 @@
   - Lifelong learner driven by curiosity
 
 > [!NOTE]
->  I'm also known as *BurgeonLab* or *APERTURE2IRIS*
+>  I'm also known as *BurgeonLab* or *APERTURE2IRIS (photography handle)*
 
-## 🤜🤛 I’m looking to collaborate on
+## 🤝 I’m looking to collaborate on
 
   - Technical writing (documentation/wiki) for open source projects
   - en/zh_HANT translations
@@ -15,36 +15,54 @@
 ## 🔭 I’m currently working on
 
   - Creating my first public, open source Hugo widget with accompanying documentation site
-  - Incorporating [Indieweb](https://indieweb.org/) into my primary blog ([burgeonlab.com](https://www.burgeonlab.com)) with tools like [Indiekit](https://getindiekit.com/), [Webmention.io](https://webmention.io/), and [Telegraph](https://telegraph.p3k.io/)
+  - Incorporating [Indieweb](https://indieweb.org/) into my primary [static Hugo blog](https://www.burgeonlab.com) with tools like [Indiekit](https://getindiekit.com/), [Webmention.io](https://webmention.io/), and [Telegraph](https://telegraph.p3k.io/)
 
 ## ✍️ My blogs
 
-### BurgeonLab.com
+<table><thead>
+  <tr>
+    <th><b>BurgeonLab.com</b><br><i>Status: active</i></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>This is my personal site and main blogging outlet where I usually <a href="https://burgeonlab.com/blog/">write</a> about tech-related topics and <a href="https://burgeonlab.com/series/how-to-guide/">how-to guides</a>; but I plan to expand on that and make it truly my personal hub that can connect with others using Indieweb principles. It runs on Hugo, which is my favourite CMS—you can learn more about the technical aspects on the <a href="https://sr.ht/~eclecticpassions/burgeonlab/">blog's README</a>.
+<br>
+<br>  
+<a href="https://burgeonlab.com"><img src="https://img.shields.io/badge/BurgeonLab.com-E24613?style=for-the-badge&amp;logo=hugo&amp;logoColor=%23000000&amp;label=main%20blog&amp;labelColor=%23FFB800" alt="Static Badge">
+</a> <a href="https://burgeonlab.com/subscribe"><img src="https://img.shields.io/badge/Subscribe-ATOM-orange?style=plastic&amp;labelColor=%23010412&amp;logo=RSS&amp;logoColor=%23FE7D37" alt="Static Badge"></a></td>
+  </tr>
+</tbody>
+</table>
 
-This is my personal site and main blogging outlet where I usually [write](https://burgeonlab.com/blog/) about tech-related topics and [how-to guides](https://burgeonlab.com/series/how-to-guide/); but I plan to expand on that and make it truly my personal hub that can connect with others using Indieweb principles. It runs on Hugo, which is my favourite CMS—you can learn more about the technical aspects on the [blog's README](https://sr.ht/~eclecticpassions/burgeonlab/).
+<table><thead>
+  <tr>
+    <th><b>Eclecticpassions.net</b><br><i>Status: irregular updates (low activity)</i></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>This was my first blog and runs on self-hosted WordPress. I didn't enjoy my experience of using WP (hence switching to Hugo), but the process was invaluable. It allowed me to learn from experience, building a foundation for basic web development skills (like improving page performance, CDN integration, HTML/CSS tweaks, blog writing and SEO best practices, etc). I don't write here often though and I'm considering if I should consolidate it with BurgeonLab.
+<br>
+<br>  
+<a href="https://eclecticpassions.net"><img src="https://img.shields.io/badge/eclecticpassions.net-FA7602?style=for-the-badge&amp;logo=wordpress&amp;logoColor=%23000000&amp;label=secondary%20blog&amp;labelColor=%238DCBD2" alt="Static Badge">
+</a> <a href="https://eclecticpassions.net/feed"><img src="https://img.shields.io/badge/Subscribe-RSS-orange?style=plastic&amp;labelColor=%23010412&amp;&amp;logo=RSS&amp;logoColor=%23FE7D37" alt="Static Badge"></a></td>
+  </tr>
+</tbody>
+</table>
 
-[![Static Badge](https://img.shields.io/badge/BurgeonLab.com-E24613?style=for-the-badge&logo=hugo&logoColor=%23000000&label=main%20blog&labelColor=%23FFB800)
-](https://burgeonlab.com)
-
-[![Static Badge](https://img.shields.io/badge/Subscribe-ATOM-orange?style=plastic&labelColor=%23010412&logo=RSS&logoColor=%23FE7D37)](https://burgeonlab.com/subscribe)
-
-### Eclecticpassions.net 
-
-This was my first blog and runs on self-hosted WordPress. I didn't enjoy my experience of using WP (hence switching to Hugo), but the process was invaluable. It allowed me to learn from experience, building a foundation for basic web development skills (like improving page performance, CDN integration, HTML/CSS tweaks, blog writing and SEO best practices, etc). I don't write here often though and I'm considering if I should consolidate it with BurgeonLab.
-
-[![Static Badge](https://img.shields.io/badge/eclecticpassions.net-FA7602?style=for-the-badge&logo=wordpress&logoColor=%23000000&label=secondary%20blog&labelColor=%238DCBD2)
-](https://eclecticpassions.net)
-
-[![Static Badge](https://img.shields.io/badge/Subscribe-RSS-orange?style=plastic&labelColor=%23010412&&logo=RSS&logoColor=%23FE7D37)](https://eclecticpassions.net/feed)
-
-### Aperture2iris.com 
-
-This ~is~ will be the place I share my photography-related content (it's under construction). I'm an avid hobbyist photographer and it's my biggest hobby. Ever since I left the Adobe ship (user for over 15y), I no longer have a portfolio up online. I plan to use Hugo to share my portfolio and also write blogs about my gear, processes, etc.
-
-[![Static Badge](https://img.shields.io/badge/aperture2iris.com-93A1B6?style=for-the-badge&logo=hugo&logoColor=%23000000&label=Photography%20blog&labelColor=%23ff9b6d)
-](https://aperture2iris.com)
-
-[![Static Badge](https://img.shields.io/badge/Subscribe-RSS-orange?style=plastic&labelColor=%23010412&&logo=RSS&logoColor=%23FE7D37)](https://aperture2iris.com/index.xml)
+<table><thead>
+  <tr>
+    <th><b>Aperture2iris.com</b><br><i>Status: under construction</i></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>This <del>is</del> will be the place I share my photography-related content. I'm an avid hobbyist photographer and it's my biggest hobby. Ever since I left the Adobe ship (user for over 15y), I no longer have a portfolio up online. I plan to use Hugo to share my portfolio and also write blogs about my gear, processes, etc.
+<br>
+<br>  
+<a href="https://aperture2iris.com"><img src="https://img.shields.io/badge/aperture2iris.com-93A1B6?style=for-the-badge&amp;logo=hugo&amp;logoColor=%23000000&amp;label=Photography%20blog&amp;labelColor=%23ff9b6d" alt="Static Badge">
+</a> <a href="https://aperture2iris.com/index.xml"><img src="https://img.shields.io/badge/Subscribe-RSS-orange?style=plastic&amp;labelColor=%23010412&amp;&amp;logo=RSS&amp;logoColor=%23FE7D37" alt="Static Badge"></a></td>
+  </tr>
+</tbody>
+</table>
 
 ## ☕ Interests
   - Free open source software (FOSS) and raising awareness for privacy-centric services
