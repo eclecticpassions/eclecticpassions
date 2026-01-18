@@ -5,7 +5,7 @@
   - Lifelong learner driven by curiosity
 
 > [!NOTE]
->  I'm also known as *BurgeonLab* or *APERTURE2IRIS (photography handle)*
+>  I'm also known as *BurgeonLab* or *APERTURE2IRIS*
 
 ## 🤝 I’m looking to collaborate on
 
