@@ -46,45 +46,50 @@
 
 <table><thead>
   <tr>
-    <th><b>BurgeonLab.com</b><br><i>Status: active</i></th>
+    <th><a href="https://burgeonlab.com"><img src="https://img.shields.io/badge/BurgeonLab.com-E24613?style=for-the-badge&amp;logo=hugo&amp;logoColor=%23000000&amp;label=main%20blog&amp;labelColor=%23FFB800" alt="Static Badge">
+</a><br><i>Status: active</i></th>
   </tr></thead>
 <tbody>
   <tr>
     <td>This is my personal site and main blogging outlet where I usually <a href="https://burgeonlab.com/blog/">write</a> about tech-related topics and more recently, <a href="https://burgeonlab.com/weeknotes/">weeknotes</a>. I hope to grow it so it becomes my personal Internet hub that can connect with others using <a href="https://indieweb.org/User:Burgeonlab.com">Indieweb</a> principles. <i>BurgeonLab</i> is built with Hugo and is my favourite way to build a static site—learn more about the technical aspects on the <a href="https://sr.ht/~eclecticpassions/burgeonlab/">blog's README</a>.
 <br>
 <br>  
-<a href="https://burgeonlab.com"><img src="https://img.shields.io/badge/BurgeonLab.com-E24613?style=for-the-badge&amp;logo=hugo&amp;logoColor=%23000000&amp;label=main%20blog&amp;labelColor=%23FFB800" alt="Static Badge">
-</a> <a href="https://burgeonlab.com/subscribe"><img src="https://img.shields.io/badge/Subscribe-ATOM-orange?style=plastic&amp;labelColor=%23010412&amp;logo=RSS&amp;logoColor=%23FE7D37" alt="Static Badge"></a></td>
+<a href="https://burgeonlab.com/subscribe"><img src="https://img.shields.io/badge/Subscribe-ATOM-orange?style=plastic&amp;labelColor=%23010412&amp;logo=RSS&amp;logoColor=%23FE7D37" alt="Static Badge"></a></td>
   </tr>
 </tbody>
 </table>
 
 <table><thead>
   <tr>
-    <th><b>Eclecticpassions.net</b><br><i>Status: irregular updates (low activity)</i></th>
+    <th><a href="https://eclecticpassions.net"><img src="https://img.shields.io/badge/eclecticpassions.net-FA7602?style=for-the-badge&amp;logo=wordpress&amp;logoColor=%23000000&amp;label=secondary%20blog&amp;labelColor=%238DCBD2" alt="Static Badge">
+</a><br><i>Status: irregular updates (low activity)</i></th>
   </tr></thead>
 <tbody>
   <tr>
     <td>This was my first blog and runs on self-hosted WordPress. I didn't enjoy my experience of using WP (hence switching to <a href="https://gohugo.io/">Hugo</a>), but the process was invaluable. It allowed me to learn from experience, building a foundation for basic web development skills (like improving page performance, CDN integration, HTML/CSS tweaks, blog writing and SEO best practices, etc). I don't write here often though and I'm considering if I should consolidate it with <i>BurgeonLab</i>.
 <br>
 <br>  
-<a href="https://eclecticpassions.net"><img src="https://img.shields.io/badge/eclecticpassions.net-FA7602?style=for-the-badge&amp;logo=wordpress&amp;logoColor=%23000000&amp;label=secondary%20blog&amp;labelColor=%238DCBD2" alt="Static Badge">
-</a> <a href="https://eclecticpassions.net/feed"><img src="https://img.shields.io/badge/Subscribe-RSS-orange?style=plastic&amp;labelColor=%23010412&amp;&amp;logo=RSS&amp;logoColor=%23FE7D37" alt="Static Badge"></a></td>
+<a href="https://eclecticpassions.net/feed"><img src="https://img.shields.io/badge/Subscribe-RSS-orange?style=plastic&amp;labelColor=%23010412&amp;&amp;logo=RSS&amp;logoColor=%23FE7D37" alt="Static Badge"></a></td>
   </tr>
 </tbody>
 </table>
 
-<table><thead>
+<table>
+<thead>
   <tr>
-    <th><b>Aperture2iris.com</b><br><i>Status: under construction</i></th>
-  </tr></thead>
+    <th><a href="https://aperture2iris.com"><img src="https://img.shields.io/badge/aperture2iris.com-93A1B6?style=for-the-badge&amp;logo=hugo&amp;logoColor=%23000000&amp;label=Photography%20blog&amp;labelColor=%23ff9b6d" alt="Static Badge"></a>
+      <br>
+      <i>Status: under construction</i>
+    </th>
+  </tr>
+</thead>
 <tbody>
-  <tr>
-    <td>This <del>is</del> will be the place I share my photography-related content. I'm an avid hobbyist photographer and it's my biggest hobby. Ever since I left the Adobe ship (being a user for over 15y), I no longer have a portfolio up online. I plan to use Hugo to share my portfolio and also write blogs about my gear, processes, etc.
-<br>
-<br>  
-<a href="https://aperture2iris.com"><img src="https://img.shields.io/badge/aperture2iris.com-93A1B6?style=for-the-badge&amp;logo=hugo&amp;logoColor=%23000000&amp;label=Photography%20blog&amp;labelColor=%23ff9b6d" alt="Static Badge">
-</a> <a href="https://aperture2iris.com/index.xml"><img src="https://img.shields.io/badge/Subscribe-RSS-orange?style=plastic&amp;labelColor=%23010412&amp;&amp;logo=RSS&amp;logoColor=%23FE7D37" alt="Static Badge"></a></td>
+<tr>
+  <td>This will be the place I share my photography-related content. I'm an avid hobbyist photographer and it's my biggest hobby. Ever since I left the Adobe ship (being a user for over 15y), I no longer have a portfolio up online. I plan to use Hugo to share my portfolio and also write blogs about my gear, processes, etc.
+    <br>
+    <br>
+    <a href="https://aperture2iris.com/index.xml"><img src="https://img.shields.io/badge/Subscribe-RSS-orange?style=plastic&amp;labelColor=%23010412&amp;&amp;logo=RSS&amp;logoColor=%23FE7D37" alt="Static Badge"></a>
+    </td>
   </tr>
 </tbody>
 </table>
