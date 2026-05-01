@@ -29,6 +29,7 @@
 ## 🔭 I’m currently
 
   -  Looking for work that combines my tech interests with medical background
+  -  Participate in [IndieWeb remote events](https://events.indieweb.org/), minutes / note taking, occasional facilitating [Homebrew Website Club: Eastern](https://events.indieweb.org/tag/hwc)
   -  Transitioning my digital reliance towards more privacy-friendly options, moving away from Big Tech (enshittification) and US-based services in general
   -  Getting accustomed to being a 'sustainable blogger' (i.e. keeping up with posts without long periods of absences)
   -  Communicate and raise awareness of the non-corporate Internet (e.g. small web / IndieWeb) to those who are not yet aware
