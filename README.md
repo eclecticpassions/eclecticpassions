@@ -1,20 +1,37 @@
-# Hello 👋, I'm Naty 👩🏻‍💻👩🏻‍⚕
+<div align="center">
+  
+# 👋 Hello, I'm Naty
 
-  - A junior healthcare professional by training, but currently looking for work in non-clinical domains
-  - A tech geek with many hobbies, based in 🇭🇰 Hong Kong, SAR
-  - Lifelong learner driven by curiosity
+  <p>
+    <strong>📍 Based in Hong Kong, SAR</strong> | 
+    <strong>👩🏻‍⚕ Medical doctor by training</strong> | 
+    <strong>👩🏻‍💻 Tech geek and lifelong learner</strong>
+  </p>
+  
+  <p>
+    <small>I'm also known as: <i>BurgeonLab</i> & <i>APERTURE2IRIS</i></small>
+  </p>
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kode+Mono&duration=2400&pause=350&color=3CFF3A&background=1D1D1D&center=true&vCenter=true&random=true&width=300&height=40&lines=IndieWeb+Enthusiast;FOSS+Supporter;Privacy+Advocate;Home+Barista;Hobbyist+Photographer;Tech+Tinkerer;Third+Culture+Kid" alt="Typing SVG" /></a>
 
-> [!NOTE]
->  I'm also known as *BurgeonLab* or *APERTURE2IRIS*.
->
-> In the process of [migrating](https://burgeonlab.com/blog/hosting-static-sites-with-github-pages-or-bunny-net/) my workflows and repos from GitHub to [SourceHut (sr.ht)](https://sr.ht/~eclecticpassions/) & [Codeberg](https://codeberg.org/burgeonlab).
+</div>
+
+## 🔭 I’m currently
+
+  -  Looking for work that combines my tech interests with medical background outside primary care
+  -  Participating in [IndieWeb remote events](https://events.indieweb.org/), minutes / note taking, occasional facilitating [Homebrew Website Club: Eastern](https://events.indieweb.org/tag/hwc)
+  - [Migrating](https://burgeonlab.com/blog/hosting-static-sites-with-github-pages-or-bunny-net/) my workflows and repos from GitHub to [SourceHut (sr.ht)](https://sr.ht/~eclecticpassions/) & [Codeberg](https://codeberg.org/burgeonlab).
+  -  Transitioning my digital reliance towards more privacy-friendly options, moving away from Big Tech (enshittification) and US-based services in general
+  -  Getting accustomed to being a 'sustainable blogger' (i.e. keeping up with posts without long periods of absences)
+  -  Raising awareness and sharing about the non-corporate Internet (e.g. small web / IndieWeb)
+  -  Learning basic Python for data science
 
 ## 🤝 Looking to contribute
 
   - Translations: en/zh_HANT (and to a certain extent en/zh_HANS)
   - Technical writing (documentation, wiki), how-to guides
-  - Wiki writing / maintainer 
-  - Adding small improvements / features to open source software I personally use
+  - Wiki writing / maintaining
+  - Adding improvements or features to open source software I personally use
 
 ## ☕ Interests
   - Free open source software (FOSS) and raising awareness for privacy-centric services
@@ -25,15 +42,6 @@
   - Home lab / self-hosting
   - Android + macOS and occasionally Linux Mint on my retired Macbook Air 13" (2012)
   - Hiking / cycling / city walks / Formula 1
-
-## 🔭 I’m currently
-
-  -  Looking for work that combines my tech interests with medical background
-  -  Participate in [IndieWeb remote events](https://events.indieweb.org/), minutes / note taking, occasional facilitating [Homebrew Website Club: Eastern](https://events.indieweb.org/tag/hwc)
-  -  Transitioning my digital reliance towards more privacy-friendly options, moving away from Big Tech (enshittification) and US-based services in general
-  -  Getting accustomed to being a 'sustainable blogger' (i.e. keeping up with posts without long periods of absences)
-  -  Communicate and raise awareness of the non-corporate Internet (e.g. small web / IndieWeb) to those who are not yet aware
-  -  Learning basic Python for data science
 
 ## 🌱 Ongoing projects
 
