@@ -33,23 +33,6 @@
   - Wiki writing / maintaining
   - Adding improvements or features to open source software I personally use
 
-## ☕ Interests
-  - Free open source software (FOSS) and raising awareness for privacy-centric services
-  - IndieWeb, content ownership, decentralization, DeGoogle
-  - Web dev and blogging (with Hugo and self-hosted WordPress)
-  - Digital and film photography (favourite genres: street, urban, macro) & moving to FOSS post-processing post-Adobe era
-  - Speciality coffee / manual filter & espresso (a "home barista" if you will!)
-  - Home lab / self-hosting
-  - Android + macOS and occasionally Linux Mint on my retired Macbook Air 13" (2012)
-  - Hiking / cycling / city walks / Formula 1
-
-## 🌱 Ongoing projects
-
-  - Incorporating [Indieweb](https://indieweb.org/) into my primary [static (Hugo) blog](https://www.burgeonlab.com) with a Node.js Micropub server called [Indiekit](https://getindiekit.com/)
-  - Creating my first public project: a Hugo calendar widget with accompanying documentation site
-  - Fine-tuning my personal knowledge management (PKM) system using Obsidian
-  - Self-hosting with my Raspberry Pi 4B 8GB
-
 ## ✍️ My blogs
 
 <table><thead>
@@ -271,6 +254,23 @@ I have varying experience with the following:
 </tr>
 </tbody>
 </table>
+
+## ☕ Interests
+  - Free open source software (FOSS) and raising awareness for privacy-centric services
+  - IndieWeb, content ownership, decentralization, DeGoogle
+  - Web dev and blogging (with Hugo and self-hosted WordPress)
+  - Digital and film photography (favourite genres: street, urban, macro) & moving to FOSS post-processing post-Adobe era
+  - Speciality coffee / manual filter & espresso (a "home barista" if you will!)
+  - Home lab / self-hosting
+  - Android + macOS and occasionally Linux Mint on my retired Macbook Air 13" (2012)
+  - Hiking / cycling / city walks / Formula 1
+
+## 🌱 Ongoing projects
+
+  - Incorporating [Indieweb](https://indieweb.org/) into my primary [static (Hugo) blog](https://www.burgeonlab.com) with a Node.js Micropub server called [Indiekit](https://getindiekit.com/)
+  - Creating my first public project: a Hugo calendar widget with accompanying documentation site
+  - Fine-tuning my personal knowledge management (PKM) system using Obsidian
+  - Self-hosting with my Raspberry Pi 4B 8GB
 
 ## 📫 Reach out
 
