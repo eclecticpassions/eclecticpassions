@@ -19,13 +19,13 @@
 ## 🔭 I’m currently
 
   -  Looking for work that combines my tech interests with medical background outside primary care
-  -  Participating in [IndieWeb remote events](https://events.indieweb.org/), minutes / note taking, occasional facilitating [Homebrew Website Club: Eastern](https://events.indieweb.org/tag/hwc)
+  -  Open for remote opportunities
+  -  Participating in remote [IndieWeb events](https://events.indieweb.org/), minutes / note taking, hosting fortnightly [Homebrew Website Club: Asia Pacific](https://events.indieweb.org/tag/hwc) meetups
   - [Migrating](https://burgeonlab.com/blog/hosting-static-sites-with-github-pages-or-bunny-net/) my workflows and repos from GitHub to [SourceHut (sr.ht)](https://sr.ht/~eclecticpassions/) & [Codeberg](https://codeberg.org/burgeonlab).
-  -  Transitioning my digital reliance towards more privacy-friendly options, moving away from Big Tech (enshittification) and US-based services in general
+  -  Transitioning my digital reliance towards more privacy-friendly options, moving away from Big Tech (escaping enshittification) and US-based services in general
   -  Getting accustomed to being a 'sustainable blogger' (i.e. keeping up with posts without long periods of absences)
   -  Raising awareness and sharing about the non-corporate Internet (e.g. small web / IndieWeb)
-  -  Learning basic Python for data science
-
+    
 ## 🤝 Looking to contribute
 
   - Translations: en/zh_HANT (and to a certain extent en/zh_HANS)
@@ -34,18 +34,17 @@
   - Adding improvements or features to open source software I personally use
 
 ## ✍️ My blogs
-
+    
 <table><thead>
   <tr>
     <th><a href="https://burgeonlab.com"><img src="https://img.shields.io/badge/BurgeonLab.com-E24613?style=for-the-badge&amp;logo=hugo&amp;logoColor=%23000000&amp;label=main%20blog&amp;labelColor=%23FFB800" alt="Static Badge">
 </a>
-      <br>
-      <a href="https://burgeonlab.com/subscribe"><img src="https://img.shields.io/badge/Subscribe-ATOM-orange?style=plastic&amp;labelColor=%23010412&amp;logo=RSS&amp;logoColor=%23FE7D37" alt="Static Badge"></a></th>
+      </th>
   </tr></thead>
 <tbody>
   <tr>
-    <td><div align="center"><i>Status: active</i></div>
-      This is my personal site and main blogging outlet where I usually <a href="https://burgeonlab.com/blog/">write</a> about tech-related topics and more recently, <a href="https://burgeonlab.com/weeknotes/">weeknotes</a>. I hope to grow it so it becomes my personal Internet hub that can connect with others using <a href="https://indieweb.org/User:Burgeonlab.com">Indieweb</a> principles. <i>BurgeonLab</i> is built with Hugo and is my favourite way to build a static site—learn more about the technical aspects on the <a href="https://sr.ht/~eclecticpassions/burgeonlab/">blog's README</a>.
+    <td><div align="center">Status: active | <a href="https://burgeonlab.com/subscribe">Subscribe to feed</a></div>
+      My primary personal website and IndieWeb home where I <a href="https://burgeonlab.com/blog/">blog</a> about tech-related topics, <a href="https://burgeonlab.com/notes/">microblog</a>, and share <a href="https://burgeonlab.com/weeknotes/">weeknotes</a>. I'm developing it slowly so that it becomes my main Internet hub where I can connect with others using <a href="https://indieweb.org/User:Burgeonlab.com">Indieweb</a> principles and not rely on social media platforms. <i>BurgeonLab</i> is built with Hugo and <a href="https://getindiekit.com/">Indiekit</a>. I'm a static site convert since learning Hugo and it's my favourite way to build sites—learn more about the technical aspects on my <a href="https://burgeonlab.com/colophon/">colophon page</a>.
 </td>
   </tr>
 </tbody>
@@ -54,16 +53,13 @@
 <br>
 <table><thead>
   <tr>
-    <th><a href="https://eclecticpassions.net"><img src="https://img.shields.io/badge/eclecticpassions.net-FA7602?style=for-the-badge&amp;logo=wordpress&amp;logoColor=%23000000&amp;label=secondary%20blog&amp;labelColor=%238DCBD2" alt="Static Badge">
-      <br>
-      <a href="https://eclecticpassions.net/feed"><img src="https://img.shields.io/badge/Subscribe-RSS-orange?style=plastic&amp;labelColor=%23010412&amp;&amp;logo=RSS&amp;logoColor=%23FE7D37" alt="Static Badge"></a>
-</a></th>
+    <th><a href="https://eclecticpassions.net"><img src="https://img.shields.io/badge/eclecticpassions.net-74cd97?style=for-the-badge&logo=typescript&logoColor=%23ffffff&label=digital%20garden&labelColor=%230e301c" alt="Static Badge"></a></th>
   </tr></thead>
 <tbody>
   <tr>
     <td>
-      <div align="center"><i>Status: irregular updates (low activity)</i></div>
-      This was my first blog and runs on self-hosted WordPress. I didn't enjoy my experience of using WP (hence switching to <a href="https://gohugo.io/">Hugo</a>), but the process was invaluable. It allowed me to learn from experience, building a foundation for basic web development skills (like improving page performance, CDN integration, HTML/CSS tweaks, blog writing and SEO best practices, etc). I don't write here often though and I'm considering if I should consolidate it with <i>BurgeonLab</i>. 
+      <div align="center">Status: revived (low activity) | <a href="https://eclecticpassions.net/feed.xml">Subscribe to feed</a></div>
+      This was originally my first self-hosted WordPress blog. In Sept 2026, I revived the domain and converted it to a static site built with <a href="https://quartz.jzhao.xyz/">Quartz</a>. Although WordPress was a negative experience overall; it allowed me to learn from experience, building a foundation of basic web development skills (like improving page performance, CDN integration, HTML/CSS tweaks, blog writing and SEO best practices, etc). With a brand new look and structure focused on personal knowledge base / digital gardens—I am keen on building my note collection.
 </td>
   </tr>
 </tbody>
@@ -74,8 +70,6 @@
 <thead>
   <tr>
     <th><a href="https://aperture2iris.com"><img src="https://img.shields.io/badge/aperture2iris.com-93A1B6?style=for-the-badge&amp;logo=hugo&amp;logoColor=%23000000&amp;label=Photography%20blog&amp;labelColor=%23ff9b6d" alt="Static Badge"></a>
-       <br>
-    <a href="https://aperture2iris.com/index.xml"><img src="https://img.shields.io/badge/Subscribe-RSS-orange?style=plastic&amp;labelColor=%23010412&amp;&amp;logo=RSS&amp;logoColor=%23FE7D37" alt="Static Badge"></a>
     </th>
   </tr>
 </thead>
@@ -83,8 +77,8 @@
 <tr>
   <td>
     <div align="center">
-      <i>Status: under construction</i></div>
-    This will be the place I share my photography-related content. I'm an avid hobbyist photographer and it's my biggest hobby. Ever since I left the Adobe ship (being a user for over 15y), I no longer have a portfolio up online. I plan to use Hugo to share my portfolio and also write blogs about my gear, processes, etc.
+      Status: under construction | <a href="https://aperture2iris.com/index.xml">Subscribe to feed</a></div>
+    This will be the place I share my photography-related content. I'm an avid hobbyist photographer and it's my biggest hobby. Ever since I left the Adobe ship (being a user for over 15y), I no longer have a portfolio up online. I plan to use this Hugo-built site as a portfolio and also write blogs about my gear, processes, etc.
     </td>
   </tr>
 </tbody>
@@ -121,29 +115,42 @@ I have varying experience with the following:
         </a>
       </td>
   </tr>
-  <tr>
-    <td>Frontend</td>
-    <td class="icon-row">
-      <a href="https://html.spec.whatwg.org/multipage/" aria-label="HTML5">
-          <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt = "HTML5">
-          </a>
-      <a href="https://www.w3.org/TR/css/#css" aria-label="CSS">
-          <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-          </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" aria-label="JavaScript">
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript">
-          </a>
+<tr>
+<td>Frontend</td>
+<td class="icon-row">
+<a href="https://html.spec.whatwg.org/multipage/" aria-label="HTML5">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt = "HTML5">
+    </a>
+<a href="https://www.w3.org/TR/css/#css" aria-label="CSS">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" aria-label="JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript">
+    </a>
 </tr>
-    <tr>
-      <td>CMS</td>
-      <td class="icon-row">
-        <a href="https://gohugo.io/" aria-label="Hugo">
-        <img src="https://img.shields.io/badge/hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="Hugo">
-        </a>
-        <a href="https://wordpress.org/" aria-label="WordPress">
-          <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
-        </td>
+  <tr>
+  <td>Backend</td>
+  <td class="icon-row">
+     <a href="https://nodejs.org/" aria-label="Node.js">
+    <img src="https://img.shields.io/badge/node.js-%23417e38.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  </a>
+     <a href="https://www.npmjs.com/" aria-label="NPM">
+    <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPMJS">
+  </a>
+  </td>
   </tr>
+
+<tr>
+<td>CMS</td>
+<td class="icon-row">
+  <a href="https://gohugo.io/" aria-label="Hugo">
+  <img src="https://img.shields.io/badge/hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="Hugo">
+  </a>
+  <a href="https://wordpress.org/" aria-label="WordPress">
+    <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress"></a>
+  </td>
+  </tr>
+
   <tr>
   <td>Markup Languages</td>
   <td class="icon-row">
@@ -193,9 +200,6 @@ I have varying experience with the following:
     </a>
     <a href="https://go.dev/" aria-label="Go">
         <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-    </a>
-     <a href="https://nodejs.org/" aria-label="Node.js">
-        <img src="https://img.shields.io/badge/node.js-%23417e38.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
     </a>
   </td>
 </tr>
@@ -258,10 +262,10 @@ I have varying experience with the following:
 ## ☕ Interests
   - Free open source software (FOSS) and raising awareness for privacy-centric services
   - IndieWeb, content ownership, decentralization, DeGoogle
-  - Web dev and blogging (with Hugo and self-hosted WordPress)
+  - Web dev, blogging, writing
+  - Home lab / self-hosting
   - Digital and film photography (favourite genres: street, urban, macro) & moving to FOSS post-processing post-Adobe era
   - Speciality coffee / manual filter & espresso (a "home barista" if you will!)
-  - Home lab / self-hosting
   - Android + macOS and occasionally Linux Mint on my retired Macbook Air 13" (2012)
   - Hiking / cycling / city walks / Formula 1
 
@@ -269,16 +273,16 @@ I have varying experience with the following:
 
   - Incorporating [Indieweb](https://indieweb.org/) into my primary [static (Hugo) blog](https://www.burgeonlab.com) with a Node.js Micropub server called [Indiekit](https://getindiekit.com/)
   - Creating my first public project: a Hugo calendar widget with accompanying documentation site
-  - Fine-tuning my personal knowledge management (PKM) system using Obsidian
+  - Fine-tuning my personal knowledge management (PKM) system using Obsidian and keeping a starting a new digital garden for public learning notes
   - Self-hosting with my Raspberry Pi 4B 8GB
 
 ## 📫 Reach out
 
 [![Static Badge](https://img.shields.io/badge/chat-chat?style=for-the-badge&logoColor=%234449F7&logo=signal&label=Signal&labelColor=%23010412&color=%234449F7)](https://signal.me/#eu/vfUVz1xMsQCcQL41GWXAjIJLXT9a7v4Qr2e1Z9fzdUW8JynHUVFCjYBFg7BAlbHH)
 
-[![Static Badge](https://img.shields.io/badge/chat-chat?style=for-the-badge&logoColor=%230DBF97&logo=matrix&label=Matrix&labelColor=%23010412&color=%230DBF97)](https://matrix.to/#/@burgeon:tchncs.de)
+[![Static Badge](https://img.shields.io/badge/MUC%20Chatroom-chat?style=for-the-badge&logoColor=%23FFFFFF&logo=XMPP&label=XMPP&labelColor=%23010412&color=%23002B5C)](xmpp:burgeonlab.com-lounge@chat.disroot.org?join)
 
-[![Static Badge](https://img.shields.io/badge/email-tuta?style=for-the-badge&logoColor=%23d93951&logo=tuta&label=Tuta&labelColor=%23010412&color=%23d93951)](https://burgeonlab.com/contact/#email)
+[![Static Badge](https://img.shields.io/badge/email-mailbox%20org?style=for-the-badge&logoColor=%23ABE659&logo=mailbox&label=Mailbox&labelColor=%23010412&color=%23ABE659)](https://burgeonlab.com/contact/#email)
 
 ## 💬 Social media
 
@@ -289,7 +293,7 @@ I have varying experience with the following:
 
 ## 🎁 Support me
 
-If my content or contribution has helped, a donation would be greatly appreciated. Your encouragement motivates me to write. Thank you!
+If my content or contribution has helped, a donation would be greatly appreciated. Your encouragement motivates me to write, create, and connect. Thank you!
 
 [![Static Badge](https://img.shields.io/badge/donate-liberapay?style=for-the-badge&logo=liberapay&label=give%20a%20tip&labelColor=010412&color=yellow)
 ](https://liberapay.com/~1860582/)
