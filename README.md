@@ -39,11 +39,12 @@
   <tr>
     <th><a href="https://burgeonlab.com"><img src="https://img.shields.io/badge/BurgeonLab.com-E24613?style=for-the-badge&amp;logo=hugo&amp;logoColor=%23000000&amp;label=main%20blog&amp;labelColor=%23FFB800" alt="Static Badge">
 </a>
+      <div align="center">Status: active | <a href="https://burgeonlab.com/subscribe">Subscribe to feed</a></div>
       </th>
   </tr></thead>
 <tbody>
   <tr>
-    <td><div align="center">Status: active | <a href="https://burgeonlab.com/subscribe">Subscribe to feed</a></div>
+    <td>
       My primary personal website and IndieWeb home where I <a href="https://burgeonlab.com/blog/">blog</a> about tech-related topics, <a href="https://burgeonlab.com/notes/">microblog</a>, and share <a href="https://burgeonlab.com/weeknotes/">weeknotes</a>. I'm developing it slowly so that it becomes my main Internet hub where I can connect with others using <a href="https://indieweb.org/User:Burgeonlab.com">Indieweb</a> principles and not rely on social media platforms. <i>BurgeonLab</i> is built with Hugo and <a href="https://getindiekit.com/">Indiekit</a>. I'm a static site convert since learning Hugo and it's my favourite way to build sites—learn more about the technical aspects on my <a href="https://burgeonlab.com/colophon/">colophon page</a>.
 </td>
   </tr>
@@ -53,12 +54,13 @@
 <br>
 <table><thead>
   <tr>
-    <th><a href="https://eclecticpassions.net"><img src="https://img.shields.io/badge/eclecticpassions.net-74cd97?style=for-the-badge&logo=typescript&logoColor=%23ffffff&label=digital%20garden&labelColor=%230e301c" alt="Static Badge"></a></th>
+    <th><a href="https://eclecticpassions.net"><img src="https://img.shields.io/badge/eclecticpassions.net-74cd97?style=for-the-badge&logo=typescript&logoColor=%23ffffff&label=digital%20garden&labelColor=%230e301c" alt="Static Badge"></a>
+    <div align="center">Status: revived (low activity) | <a href="https://eclecticpassions.net/feed.xml">Subscribe to feed</a></div>
+    </th>
   </tr></thead>
 <tbody>
   <tr>
     <td>
-      <div align="center">Status: revived (low activity) | <a href="https://eclecticpassions.net/feed.xml">Subscribe to feed</a></div>
       This was originally my first self-hosted WordPress blog. In Sept 2026, I revived the domain and converted it to a static site built with <a href="https://quartz.jzhao.xyz/">Quartz</a>. Although WordPress was a negative experience overall; it allowed me to learn from experience, building a foundation of basic web development skills (like improving page performance, CDN integration, HTML/CSS tweaks, blog writing and SEO best practices, etc). With a brand new look and structure focused on personal knowledge base / digital gardens—I am keen on building my note collection.
 </td>
   </tr>
@@ -70,14 +72,14 @@
 <thead>
   <tr>
     <th><a href="https://aperture2iris.com"><img src="https://img.shields.io/badge/aperture2iris.com-93A1B6?style=for-the-badge&amp;logo=hugo&amp;logoColor=%23000000&amp;label=Photography%20blog&amp;labelColor=%23ff9b6d" alt="Static Badge"></a>
+        <div align="center">
+      Status: under construction | <a href="https://aperture2iris.com/index.xml">Subscribe to feed</a></div>
     </th>
   </tr>
 </thead>
 <tbody>
 <tr>
   <td>
-    <div align="center">
-      Status: under construction | <a href="https://aperture2iris.com/index.xml">Subscribe to feed</a></div>
     This will be the place I share my photography-related content. I'm an avid hobbyist photographer and it's my biggest hobby. Ever since I left the Adobe ship (being a user for over 15y), I no longer have a portfolio up online. I plan to use this Hugo-built site as a portfolio and also write blogs about my gear, processes, etc.
     </td>
   </tr>
