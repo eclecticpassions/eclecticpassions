@@ -39,7 +39,7 @@
   <tr>
     <th><a href="https://burgeonlab.com"><img src="https://img.shields.io/badge/BurgeonLab.com-E24613?style=for-the-badge&amp;logo=hugo&amp;logoColor=%23000000&amp;label=main%20blog&amp;labelColor=%23FFB800" alt="Static Badge">
 </a>
-      <div align="center">Status: active | <a href="https://burgeonlab.com/subscribe">Subscribe to feed</a></div>
+      <div align="center">Status: active | <a href="https://burgeonlab.com/subscribe">Follow with RSS</a></div>
       </th>
   </tr></thead>
 <tbody>
@@ -55,7 +55,7 @@
 <table><thead>
   <tr>
     <th><a href="https://eclecticpassions.net"><img src="https://img.shields.io/badge/eclecticpassions.net-74cd97?style=for-the-badge&logo=typescript&logoColor=%23ffffff&label=digital%20garden&labelColor=%230e301c" alt="Static Badge"></a>
-    <div align="center">Status: revived (low activity) | <a href="https://eclecticpassions.net/feed.xml">Subscribe to feed</a></div>
+    <div align="center">Status: revived (low activity) | <a href="https://eclecticpassions.net/feed.xml">Follow with RSS</a></div>
     </th>
   </tr></thead>
 <tbody>
@@ -73,7 +73,7 @@
   <tr>
     <th><a href="https://aperture2iris.com"><img src="https://img.shields.io/badge/aperture2iris.com-93A1B6?style=for-the-badge&amp;logo=hugo&amp;logoColor=%23000000&amp;label=Photography%20blog&amp;labelColor=%23ff9b6d" alt="Static Badge"></a>
         <div align="center">
-      Status: under construction | <a href="https://aperture2iris.com/index.xml">Subscribe to feed</a></div>
+      Status: under construction | <a href="https://aperture2iris.com/index.xml">Follow with RSS</a></div>
     </th>
   </tr>
 </thead>
@@ -282,7 +282,7 @@ I have varying experience with the following:
 
 [![Static Badge](https://img.shields.io/badge/chat-chat?style=for-the-badge&logoColor=%234449F7&logo=signal&label=Signal&labelColor=%23010412&color=%234449F7)](https://signal.me/#eu/vfUVz1xMsQCcQL41GWXAjIJLXT9a7v4Qr2e1Z9fzdUW8JynHUVFCjYBFg7BAlbHH)
 
-[![Static Badge](https://img.shields.io/badge/MUC%20Chatroom-chat?style=for-the-badge&logoColor=%23FFFFFF&logo=XMPP&label=XMPP&labelColor=%23010412&color=%23002B5C)](xmpp:burgeonlab.com-lounge@chat.disroot.org?join)
+[![Static Badge](https://img.shields.io/badge/MUC%20Chatroom-chat?style=for-the-badge&logoColor=%231B87B8&logo=XMPP&label=XMPP&labelColor=%23010412&color=%231B87B8)](xmpp:burgeonlab.com-lounge@chat.disroot.org?join)
 
 [![Static Badge](https://img.shields.io/badge/email-mailbox%20org?style=for-the-badge&logoColor=%23ABE659&logo=mailbox&label=Mailbox&labelColor=%23010412&color=%23ABE659)](https://burgeonlab.com/contact/#email)
 
